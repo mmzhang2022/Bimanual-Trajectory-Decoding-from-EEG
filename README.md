@@ -1,7 +1,7 @@
 # Continuous Bimanual Trajectory Decoding of Coordinated Movement from EEG Signals
 ## Supporting document for the paper "Continuous Bimanual Trajectory Decoding of Coordinated Movement from EEG Signals", IEEE Journal of Biomedical and Health Informatics, 2022.
 ### DOI: [10.1109/JBHI.2022.3224506](10.1109/JBHI.2022.3224506)
-### Auther list
+### Author list
 Yi-Feng Chen;
 Ruiqi Fu;
 Junde Wu;
